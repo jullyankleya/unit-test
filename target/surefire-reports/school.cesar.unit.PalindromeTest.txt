@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: school.cesar.unit.PalindromeTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in school.cesar.unit.PalindromeTest
+check_stringWithSameStartEnd_true  Time elapsed: 0 s  <<< ERROR!
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at school.cesar.unit.PalindromeTest.check_stringWithSameStartEnd_true(PalindromeTest.java:25)
+
